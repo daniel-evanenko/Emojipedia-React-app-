@@ -19,5 +19,13 @@ const emojipedia = [
     name: "Rolling On The Floor, Laughing",
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+  },
+  {
+    id: 4,
+    emoji: "👻",
+    name: "Ghost",
+    meaning:"The funny-smiling ghost is too cute to frighten others or cause harm. Symbol for Halloween or jokingly for creepy things, e.g. movies."
   }
 ];
+
+export default emojipedia;
